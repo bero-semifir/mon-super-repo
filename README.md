@@ -12,8 +12,8 @@ Récupérer le projet: `git clone https://github.com/benoitsemifir/mon-super-rep
   - plus précisement
   - ou encore
 
-1) welsh
 1) Raclette
+1) welsh
 2) Fondue
 2) Tartiflette
 
