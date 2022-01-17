@@ -11,8 +11,8 @@
   - plus précisement
   - ou encore
 
-1) welsh
 1) Raclette
+1) welsh
 2) Fondue
 2) Tartiflette
 
