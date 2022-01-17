@@ -31,3 +31,5 @@ Pour installer `npm install`
 ou du texte *important* ou **trés important**
 
 ## Dépendances
+
+Aucune
