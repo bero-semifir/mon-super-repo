@@ -4,6 +4,7 @@
 
 ## Installation
 
+Récupérer le projet: `git clone https://github.com/benoitsemifir/mon-super-repo`
 ### Docker
 
 - faire un truc
